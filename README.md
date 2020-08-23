@@ -1,6 +1,7 @@
 # Geochemistry Insights
 ## Build insights from geologic data of various samples type.
-### Collaborators are welcome
+
+### Files
 
 #### Lavras do Sul.xlsx
 Contains the data.
